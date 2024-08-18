@@ -1,4 +1,5 @@
 import "./style.css";
+import "./bla.css";
 
 import React from "react";
 import logoUrl from "../assets/logo.svg";
